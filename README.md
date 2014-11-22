@@ -15,6 +15,6 @@ Current implementation only echoes a base64 string when is properly attached to 
 
 Number of character ir very limited in twitter, a solution to this would be to point to a file in another server where the actual commands are.
 
-#hashtag this is the key here, #hashtag provide a way to anynimously provide commands to all listen clients. But also we need to ensure that hashtag changes each certain time and also that is difficult to guess what would be the next itteration, a way to change the seed in the fly to further obfuscate bot behavior would be a huge improvment.
+hashtag this is the key here, #hashtag provide a way to anynimously provide commands to all listen clients. But also we need to ensure that hashtag changes each certain time and also that is difficult to guess what would be the next itteration, a way to change the seed in the fly to further obfuscate bot behavior would be a huge improvment.
 
 Any thoughts? feel free to ask at fdlanusse@gmail.com
